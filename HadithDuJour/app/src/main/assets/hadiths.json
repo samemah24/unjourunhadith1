@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "narrator": "Omar ibn al-Khattab",
+    "source": "Sahih al-Bukhari 1, Sahih Muslim 1907",
+    "text": {
+      "fr": "Les actions ne valent que par leurs intentions, et chacun n'obtiendra que ce qu'il a eu l'intention de faire.",
+      "en": "Actions are judged only by intentions, and each person will have only what they intended.",
+      "de": "Die Taten werden nur nach den Absichten beurteilt, und jedem steht nur das zu, was er beabsichtigt hat.",
+      "es": "Las acciones se juzgan únicamente por las intenciones, y cada persona obtendrá solo aquello que se propuso."
+    }
+  },
+  {
+    "id": 2,
+    "narrator": "Anas ibn Malik",
+    "source": "Sahih al-Bukhari 13, Sahih Muslim 45",
+    "text": {
+      "fr": "Aucun de vous ne croit vraiment tant qu'il n'aime pas pour son frère ce qu'il aime pour lui-même.",
+      "en": "None of you truly believes until he loves for his brother what he loves for himself.",
+      "de": "Keiner von euch glaubt wirklich, bis er für seinen Bruder liebt, was er für sich selbst liebt.",
+      "es": "Ninguno de vosotros cree verdaderamente hasta que desea para su hermano lo que desea para sí mismo."
+    }
+  },
+  {
+    "id": 3,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih al-Bukhari 6018, Sahih Muslim 47",
+    "text": {
+      "fr": "Que celui qui croit en Allah et au Jour dernier dise du bien ou qu'il se taise.",
+      "en": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
+      "de": "Wer an Allah und den Jüngsten Tag glaubt, soll Gutes sprechen oder schweigen.",
+      "es": "Quien crea en Allah y en el Último Día, que hable bien o que guarde silencio."
+    }
+  },
+  {
+    "id": 4,
+    "narrator": "Abdullah ibn Amr",
+    "source": "Sahih al-Bukhari 10, Sahih Muslim 40",
+    "text": {
+      "fr": "Le musulman est celui dont les gens sont à l'abri de la langue et de la main.",
+      "en": "A Muslim is one from whose tongue and hand people are safe.",
+      "de": "Muslim ist, vor dessen Zunge und Hand die Menschen sicher sind.",
+      "es": "El musulmán es aquel de cuya lengua y mano los demás están a salvo."
+    }
+  },
+  {
+    "id": 5,
+    "narrator": "Tamim ad-Dari",
+    "source": "Sahih Muslim 55",
+    "text": {
+      "fr": "La religion, c'est la sincérité : envers Allah, Son Livre, Son Messager, les dirigeants des musulmans et leur communauté.",
+      "en": "Religion is sincerity: toward Allah, His Book, His Messenger, the leaders of the Muslims, and their common people.",
+      "de": "Die Religion ist Aufrichtigkeit: gegenüber Allah, Seinem Buch, Seinem Gesandten, den Führern der Muslime und ihren einfachen Leuten.",
+      "es": "La religión es sinceridad: hacia Allah, Su Libro, Su Mensajero, los líderes de los musulmanes y su gente común."
+    }
+  },
+  {
+    "id": 6,
+    "narrator": "Abu Dharr",
+    "source": "Jami at-Tirmidhi 1956",
+    "text": {
+      "fr": "Ton sourire au visage de ton frère est une aumône.",
+      "en": "Your smile in the face of your brother is charity.",
+      "de": "Dein Lächeln im Gesicht deines Bruders ist eine Almosengabe.",
+      "es": "Tu sonrisa ante el rostro de tu hermano es una caridad."
+    }
+  },
+  {
+    "id": 7,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih al-Bukhari 6114, Sahih Muslim 2609",
+    "text": {
+      "fr": "Le fort n'est pas celui qui terrasse les autres, mais celui qui se maîtrise lui-même au moment de la colère.",
+      "en": "The strong person is not the one who overpowers others, but the one who controls himself in anger.",
+      "de": "Stark ist nicht, wer andere niederringt, sondern wer sich im Zorn selbst beherrscht.",
+      "es": "El fuerte no es quien derrota a los demás, sino quien se domina a sí mismo cuando se enfada."
+    }
+  },
+  {
+    "id": 8,
+    "narrator": "Anas ibn Malik",
+    "source": "Sahih al-Bukhari 69, Sahih Muslim 1734",
+    "text": {
+      "fr": "Facilitez et ne rendez pas les choses difficiles ; annoncez de bonnes nouvelles et ne faites pas fuir les gens.",
+      "en": "Make things easy and do not make them difficult; give glad tidings and do not drive people away.",
+      "de": "Macht es leicht und macht es nicht schwer; verkündet frohe Botschaft und schreckt die Menschen nicht ab.",
+      "es": "Facilitad y no dificultéis; dad buenas noticias y no ahuyentéis a la gente."
+    }
+  },
+  {
+    "id": 9,
+    "narrator": "Uthman ibn Affan",
+    "source": "Sahih al-Bukhari 5027",
+    "text": {
+      "fr": "Les meilleurs d'entre vous sont ceux qui apprennent le Coran et l'enseignent.",
+      "en": "The best among you are those who learn the Quran and teach it.",
+      "de": "Die Besten unter euch sind diejenigen, die den Koran lernen und lehren.",
+      "es": "Los mejores de vosotros son quienes aprenden el Corán y lo enseñan."
+    }
+  },
+  {
+    "id": 10,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih Muslim 2699",
+    "text": {
+      "fr": "Quiconque emprunte un chemin pour y chercher la science, Allah lui facilite par là un chemin vers le Paradis.",
+      "en": "Whoever follows a path in search of knowledge, Allah makes easy for him a path to Paradise.",
+      "de": "Wer einen Weg beschreitet, um Wissen zu suchen, dem erleichtert Allah dadurch einen Weg zum Paradies.",
+      "es": "A quien recorra un camino en busca de conocimiento, Allah le facilita por ello un camino al Paraíso."
+    }
+  },
+  {
+    "id": 11,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih Muslim 2564",
+    "text": {
+      "fr": "Allah ne regarde ni vos corps ni vos visages, mais Il regarde vos cœurs et vos actes.",
+      "en": "Allah does not look at your bodies or your faces, but He looks at your hearts and your deeds.",
+      "de": "Allah schaut weder auf eure Körper noch auf eure Gesichter, sondern Er schaut auf eure Herzen und eure Taten.",
+      "es": "Allah no mira vuestros cuerpos ni vuestros rostros, sino que mira vuestros corazones y vuestras obras."
+    }
+  },
+  {
+    "id": 12,
+    "narrator": "Abdullah ibn Umar",
+    "source": "Sahih al-Bukhari 6416",
+    "text": {
+      "fr": "Sois dans ce monde comme un étranger ou un voyageur de passage.",
+      "en": "Be in this world as if you were a stranger or a passing traveler.",
+      "de": "Sei in dieser Welt, als wärst du ein Fremder oder ein Reisender auf der Durchreise.",
+      "es": "Está en este mundo como si fueras un extranjero o un viajero de paso."
+    }
+  },
+  {
+    "id": 13,
+    "narrator": "Abdullah ibn Abbas",
+    "source": "Sahih al-Bukhari 6412",
+    "text": {
+      "fr": "Deux bienfaits dont beaucoup de gens sont lésés : la santé et le temps libre.",
+      "en": "There are two blessings that many people lose out on: health and free time.",
+      "de": "Es gibt zwei Gnaden, um die viele Menschen betrogen werden: Gesundheit und freie Zeit.",
+      "es": "Hay dos bendiciones que muchas personas desaprovechan: la salud y el tiempo libre."
+    }
+  },
+  {
+    "id": 14,
+    "narrator": "Jarir ibn Abdullah",
+    "source": "Sahih al-Bukhari 7376, Sahih Muslim 2319",
+    "text": {
+      "fr": "Celui qui n'est pas miséricordieux envers les gens, Allah ne sera pas miséricordieux envers lui.",
+      "en": "Whoever does not show mercy to people, Allah will not show mercy to him.",
+      "de": "Wer den Menschen gegenüber nicht barmherzig ist, dem wird Allah nicht barmherzig sein.",
+      "es": "Quien no se compadece de la gente, Allah no se compadecerá de él."
+    }
+  },
+  {
+    "id": 15,
+    "narrator": "Abu Hurayra",
+    "source": "Jami at-Tirmidhi 2317",
+    "text": {
+      "fr": "Fait partie de la beauté de l'islam d'une personne qu'elle délaisse ce qui ne la concerne pas.",
+      "en": "Part of the excellence of a person's Islam is leaving alone what does not concern him.",
+      "de": "Zur Schönheit des Islam eines Menschen gehört, dass er lässt, was ihn nichts angeht.",
+      "es": "Forma parte de la excelencia del Islam de una persona dejar aquello que no le concierne."
+    }
+  },
+  {
+    "id": 16,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih al-Bukhari 6116",
+    "text": {
+      "fr": "Un homme dit au Prophète ﷺ : « Donne-moi un conseil. » Il répondit : « Ne te mets pas en colère. » L'homme répéta plusieurs fois sa demande, et à chaque fois le Prophète répondit : « Ne te mets pas en colère. »",
+      "en": "A man said to the Prophet ﷺ: “Advise me.” He said: “Do not become angry.” The man repeated his request several times, and each time the Prophet said: “Do not become angry.”",
+      "de": "Ein Mann sagte zum Propheten ﷺ: „Gib mir einen Rat.“ Er sagte: „Werde nicht zornig.“ Der Mann wiederholte seine Bitte mehrmals, und jedes Mal sagte der Prophet: „Werde nicht zornig.“",
+      "es": "Un hombre dijo al Profeta ﷺ: «Aconséjame». Él dijo: «No te enfades». El hombre repitió su petición varias veces, y cada vez el Profeta respondió: «No te enfades»."
+    }
+  },
+  {
+    "id": 17,
+    "narrator": "Aïcha",
+    "source": "Jami at-Tirmidhi 3895",
+    "text": {
+      "fr": "Les meilleurs d'entre vous sont les meilleurs envers leurs familles, et je suis le meilleur d'entre vous envers ma famille.",
+      "en": "The best of you are those who are best to their families, and I am the best of you to my family.",
+      "de": "Die Besten unter euch sind diejenigen, die zu ihren Familien am besten sind, und ich bin der Beste von euch zu meiner Familie.",
+      "es": "Los mejores de vosotros son los mejores con sus familias, y yo soy el mejor de vosotros con mi familia."
+    }
+  },
+  {
+    "id": 18,
+    "narrator": "Abu Musa al-Ashari",
+    "source": "Sahih al-Bukhari 5373",
+    "text": {
+      "fr": "Nourrissez l'affamé, rendez visite au malade et libérez le captif.",
+      "en": "Feed the hungry, visit the sick, and free the captive.",
+      "de": "Speist den Hungrigen, besucht den Kranken und befreit den Gefangenen.",
+      "es": "Dad de comer al hambriento, visitad al enfermo y liberad al cautivo."
+    }
+  },
+  {
+    "id": 19,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih al-Bukhari 2989, Sahih Muslim 1009",
+    "text": {
+      "fr": "Une bonne parole est une aumône.",
+      "en": "A good word is charity.",
+      "de": "Ein gutes Wort ist eine Almosengabe.",
+      "es": "Una buena palabra es una caridad."
+    }
+  },
+  {
+    "id": 20,
+    "narrator": "Aïcha",
+    "source": "Sahih al-Bukhari 6464, Sahih Muslim 783",
+    "text": {
+      "fr": "Les actions les plus aimées d'Allah sont les plus régulières, même si elles sont peu nombreuses.",
+      "en": "The most beloved deeds to Allah are the most consistent ones, even if they are small.",
+      "de": "Die liebsten Taten bei Allah sind die beständigsten, auch wenn sie gering sind.",
+      "es": "Las obras más queridas por Allah son las más constantes, aunque sean pequeñas."
+    }
+  },
+  {
+    "id": 21,
+    "narrator": "Abu Malik al-Ashari",
+    "source": "Sahih Muslim 223",
+    "text": {
+      "fr": "La propreté est la moitié de la foi.",
+      "en": "Cleanliness is half of faith.",
+      "de": "Reinheit ist die Hälfte des Glaubens.",
+      "es": "La limpieza es la mitad de la fe."
+    }
+  },
+  {
+    "id": 22,
+    "narrator": "Abu Hurayra",
+    "source": "Sunan Abi Dawud 4811, Jami at-Tirmidhi 1954",
+    "text": {
+      "fr": "Celui qui ne remercie pas les gens ne remercie pas Allah.",
+      "en": "Whoever does not thank people does not thank Allah.",
+      "de": "Wer den Menschen nicht dankt, dankt Allah nicht.",
+      "es": "Quien no agradece a la gente no agradece a Allah."
+    }
+  },
+  {
+    "id": 23,
+    "narrator": "Abu Musa al-Ashari",
+    "source": "Sahih al-Bukhari 481, Sahih Muslim 2585",
+    "text": {
+      "fr": "Le croyant est pour le croyant comme un édifice dont les parties se soutiennent mutuellement.",
+      "en": "The believer to the believer is like a building whose parts support one another.",
+      "de": "Der Gläubige ist für den Gläubigen wie ein Bauwerk, dessen Teile einander stützen.",
+      "es": "El creyente para el creyente es como un edificio cuyas partes se sostienen unas a otras."
+    }
+  },
+  {
+    "id": 24,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih al-Bukhari 6019, Sahih Muslim 48",
+    "text": {
+      "fr": "Que celui qui croit en Allah et au Jour dernier honore son hôte.",
+      "en": "Whoever believes in Allah and the Last Day should honor his guest.",
+      "de": "Wer an Allah und den Jüngsten Tag glaubt, soll seinen Gast ehren.",
+      "es": "Quien crea en Allah y en el Último Día, que honre a su huésped."
+    }
+  },
+  {
+    "id": 25,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih al-Bukhari 6066, Sahih Muslim 2563",
+    "text": {
+      "fr": "Gardez-vous de la suspicion, car la suspicion est le plus mensonger des discours.",
+      "en": "Beware of suspicion, for suspicion is the most false of speech.",
+      "de": "Hütet euch vor Argwohn, denn Argwohn ist die verlogenste Rede.",
+      "es": "Guardaos de la sospecha, pues la sospecha es el más falso de los discursos."
+    }
+  },
+  {
+    "id": 26,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih Muslim 1631",
+    "text": {
+      "fr": "Quand l'homme meurt, ses œuvres s'interrompent, sauf trois : une aumône continue, une science dont on tire profit, ou un enfant pieux qui invoque pour lui.",
+      "en": "When a person dies, his deeds come to an end except for three: ongoing charity, beneficial knowledge, or a righteous child who prays for him.",
+      "de": "Wenn ein Mensch stirbt, enden seine Taten außer dreien: fortlaufende Wohltätigkeit, nützliches Wissen oder ein rechtschaffenes Kind, das für ihn betet.",
+      "es": "Cuando una persona muere, sus obras se interrumpen salvo tres: una caridad continua, un conocimiento del que otros se benefician, o un hijo piadoso que ruega por él."
+    }
+  },
+  {
+    "id": 27,
+    "narrator": "Abu Masud al-Ansari",
+    "source": "Sahih Muslim 1893",
+    "text": {
+      "fr": "Celui qui guide vers un bien obtient une récompense semblable à celle de celui qui l'accomplit.",
+      "en": "Whoever guides someone to something good will have a reward like that of the one who does it.",
+      "de": "Wer zu etwas Gutem anleitet, erhält einen Lohn gleich dem dessen, der es tut.",
+      "es": "Quien guía hacia un bien recibirá una recompensa igual a la de quien lo realiza."
+    }
+  },
+  {
+    "id": 28,
+    "narrator": "Abu ad-Darda",
+    "source": "Sahih Muslim 2733",
+    "text": {
+      "fr": "L'invocation d'un musulman pour son frère en son absence est exaucée.",
+      "en": "The supplication of a Muslim for his brother in his absence is answered.",
+      "de": "Das Bittgebet eines Muslims für seinen Bruder in dessen Abwesenheit wird erhört.",
+      "es": "La súplica de un musulmán por su hermano en su ausencia es respondida."
+    }
+  },
+  {
+    "id": 29,
+    "narrator": "Abdullah ibn Masud",
+    "source": "Sahih al-Bukhari 6094, Sahih Muslim 2607",
+    "text": {
+      "fr": "La véracité mène à la piété, et la piété mène au Paradis.",
+      "en": "Truthfulness leads to righteousness, and righteousness leads to Paradise.",
+      "de": "Wahrhaftigkeit führt zur Rechtschaffenheit, und Rechtschaffenheit führt ins Paradies.",
+      "es": "La veracidad conduce a la rectitud, y la rectitud conduce al Paraíso."
+    }
+  },
+  {
+    "id": 30,
+    "narrator": "Abu Hurayra",
+    "source": "Sahih Muslim 2588",
+    "text": {
+      "fr": "L'aumône ne diminue jamais la richesse.",
+      "en": "Charity does not decrease wealth.",
+      "de": "Almosen mindern den Besitz nicht.",
+      "es": "La caridad no disminuye la riqueza."
+    }
+  },
+  {
+    "id": 31,
+    "narrator": "Al-Hasan ibn Ali",
+    "source": "Jami at-Tirmidhi 2518",
+    "text": {
+      "fr": "Abandonne ce qui te fait douter pour ce qui ne te fait pas douter.",
+      "en": "Leave what makes you doubt for what does not make you doubt.",
+      "de": "Lass, was dich zweifeln lässt, für das, was dich nicht zweifeln lässt.",
+      "es": "Deja lo que te causa duda por lo que no te causa duda."
+    }
+  },
+  {
+    "id": 32,
+    "narrator": "Abu Dharr",
+    "source": "Jami at-Tirmidhi 1987",
+    "text": {
+      "fr": "Crains Allah où que tu sois, fais suivre la mauvaise action d'une bonne qui l'effacera, et sois bien avec les gens par ton bon comportement.",
+      "en": "Fear Allah wherever you are, follow a bad deed with a good one that will erase it, and treat people with good character.",
+      "de": "Fürchte Allah, wo immer du bist, lass auf eine schlechte Tat eine gute folgen, die sie auslöscht, und behandle die Menschen mit gutem Charakter.",
+      "es": "Teme a Allah dondequiera que estés, haz seguir a la mala acción una buena que la borre, y trata a la gente con buen carácter."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hadiz del día</string>
+
+    <string name="nav_today">Hoy</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <string name="today_title">Hadiz del día</string>
+    <string name="discover_title">Otro hadiz</string>
+    <string name="narrated_by">Transmitido por %1$s</string>
+    <string name="source_format">Fuente: %1$s</string>
+
+    <string name="action_favorite">Añadir a favoritos</string>
+    <string name="action_unfavorite">Quitar de favoritos</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_another">Otro hadiz</string>
+    <string name="action_back_today">Volver al hadiz del día</string>
+
+    <string name="favorites_title">Favoritos</string>
+    <string name="favorites_empty">Aún no tienes favoritos. Toca el corazón de un hadiz para guardarlo aquí.</string>
+
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_language">Idioma de los hadices</string>
+    <string name="settings_language_auto">Automático (idioma del dispositivo)</string>
+    <string name="settings_notification">Notificación diaria</string>
+    <string name="settings_notification_desc">Recibe el hadiz del día todos los días.</string>
+    <string name="settings_time">Hora de la notificación</string>
+    <string name="settings_test">Enviar una notificación de prueba</string>
+    <string name="permission_denied">Se denegó el permiso de notificaciones. Puedes permitirlo en los ajustes del sistema.</string>
+
+    <string name="notif_channel_name">Hadiz diario</string>
+    <string name="notif_channel_desc">Un hadiz cada día a la hora que elijas</string>
+    <string name="notif_title">Hadiz del día</string>
+    <string name="widget_description">Muestra el hadiz del día</string>
+
+    <string name="disclaimer">Los hadices proceden de colecciones auténticas (Bujari, Muslim, Tirmidi, Abu Dawud). Las traducciones son orientativas; para dictámenes religiosos, consulta a un erudito cualificado.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hadith du jour</string>
+
+    <string name="nav_today">Aujourd\'hui</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_settings">Réglages</string>
+
+    <string name="today_title">Hadith du jour</string>
+    <string name="discover_title">Un autre hadith</string>
+    <string name="narrated_by">Rapporté par %1$s</string>
+    <string name="source_format">Source : %1$s</string>
+
+    <string name="action_favorite">Ajouter aux favoris</string>
+    <string name="action_unfavorite">Retirer des favoris</string>
+    <string name="action_share">Partager</string>
+    <string name="action_another">Un autre hadith</string>
+    <string name="action_back_today">Retour au hadith du jour</string>
+
+    <string name="favorites_title">Favoris</string>
+    <string name="favorites_empty">Vous n\'avez pas encore de favoris. Appuyez sur le cœur d\'un hadith pour le garder ici.</string>
+
+    <string name="settings_title">Réglages</string>
+    <string name="settings_language">Langue des hadiths</string>
+    <string name="settings_language_auto">Automatique (langue de l\'appareil)</string>
+    <string name="settings_notification">Notification quotidienne</string>
+    <string name="settings_notification_desc">Recevez le hadith du jour chaque jour.</string>
+    <string name="settings_time">Heure de la notification</string>
+    <string name="settings_test">Envoyer une notification de test</string>
+    <string name="permission_denied">L\'autorisation de notification a été refusée. Vous pouvez l\'activer dans les réglages du système.</string>
+
+    <string name="notif_channel_name">Hadith quotidien</string>
+    <string name="notif_channel_desc">Un hadith chaque jour à l\'heure de votre choix</string>
+    <string name="notif_title">Hadith du jour</string>
+    <string name="widget_description">Affiche le hadith du jour</string>
+
+    <string name="disclaimer">Les hadiths proviennent de recueils authentiques (Boukhari, Mouslim, Tirmidhi, Abou Daoud). Les traductions sont données à titre indicatif ; pour un avis religieux, consultez un savant qualifié.</string>
+</resources>

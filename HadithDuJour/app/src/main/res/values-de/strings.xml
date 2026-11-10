@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hadith des Tages</string>
+
+    <string name="nav_today">Heute</string>
+    <string name="nav_favorites">Favoriten</string>
+    <string name="nav_settings">Einstellungen</string>
+
+    <string name="today_title">Hadith des Tages</string>
+    <string name="discover_title">Ein weiterer Hadith</string>
+    <string name="narrated_by">Überliefert von %1$s</string>
+    <string name="source_format">Quelle: %1$s</string>
+
+    <string name="action_favorite">Zu Favoriten hinzufügen</string>
+    <string name="action_unfavorite">Aus Favoriten entfernen</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_another">Ein weiterer Hadith</string>
+    <string name="action_back_today">Zurück zum heutigen Hadith</string>
+
+    <string name="favorites_title">Favoriten</string>
+    <string name="favorites_empty">Du hast noch keine Favoriten. Tippe auf das Herz bei einem Hadith, um ihn hier zu speichern.</string>
+
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_language">Sprache der Hadithe</string>
+    <string name="settings_language_auto">Automatisch (Gerätesprache)</string>
+    <string name="settings_notification">Tägliche Benachrichtigung</string>
+    <string name="settings_notification_desc">Erhalte jeden Tag den Hadith des Tages.</string>
+    <string name="settings_time">Uhrzeit der Benachrichtigung</string>
+    <string name="settings_test">Testbenachrichtigung senden</string>
+    <string name="permission_denied">Die Benachrichtigungsberechtigung wurde abgelehnt. Du kannst sie in den Systemeinstellungen erlauben.</string>
+
+    <string name="notif_channel_name">Täglicher Hadith</string>
+    <string name="notif_channel_desc">Jeden Tag ein Hadith zur gewählten Uhrzeit</string>
+    <string name="notif_title">Hadith des Tages</string>
+    <string name="widget_description">Zeigt den Hadith des Tages an</string>
+
+    <string name="disclaimer">Die Hadithe stammen aus authentischen Sammlungen (Bukhari, Muslim, Tirmidhi, Abu Dawud). Die Übersetzungen dienen der Orientierung; für religiöse Rechtsfragen wende dich an einen qualifizierten Gelehrten.</string>
+</resources>
